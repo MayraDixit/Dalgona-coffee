@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+h2{
+    color: red;
+    text-decoration: underline;
+}
+button{
+background-color: brown;
+color: white;
+font-size: 120%;
+}
